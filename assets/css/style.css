@@ -102,7 +102,7 @@ p {
     font-size: 36px;
 }
 
-/*consolidated div tags into one benefits class for streamlined styling*/
+/*Consolidated div tags into one benefits class for streamlined styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,7 +113,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*consolidated benefit styling into four groups instead of sixteen*/
+
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
